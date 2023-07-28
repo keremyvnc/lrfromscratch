@@ -1,2 +1,2 @@
 # lrfromscratch
-Explanatory Data Analysis and training a Linear Regression Model and writing Linear Regression model from Scratch
+Explanatory Data Analysis and training a Linear Regression Model that I wrote from Scratch
